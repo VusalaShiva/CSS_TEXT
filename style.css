@@ -26,7 +26,6 @@ body {
 }
 .row {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: row
 }
 .half {
@@ -96,4 +95,5 @@ footer a:hover {
     .half {
         width: 100%;
     }
+
 }
